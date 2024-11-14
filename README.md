@@ -1,9 +1,6 @@
 # Hello there 👋
 
 🧐 I'm Nat. I'm a student from the KMITL, faculty of Information Techonology and majoring in Information Technology. Branch of Information Technology Infrastructure.
-<!-- 
-![image](https://cdn.discordapp.com/attachments/1304067535926333461/1306152644653350942/C8A42113-EA9B-486C-A2CA-B0ECBA53E4CD.JPG?ex=6735a0f1&is=67344f71&hm=75e61c96f7bb1afb67ee389f96af25852e9437d41ce2ad6d3f3fb8dad4e140ee&)
- -->
 
 ## ⚒️ Techonology & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
